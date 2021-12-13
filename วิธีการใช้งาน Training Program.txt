@@ -1,7 +1,7 @@
 วิธีใช้งาน โปรแกรมฝึกเทรด Training Monitor
 1.เข้าที่ไฟล์  PowerSleep.exe
-2.ให้ใส่ API key/Secret key (Deribit)
-
+2.ให้ใส่ API key/Secret key (Deribit) 
+  (ใช้ได้เลยครับ)
   apikey : hOm_Mh4P
   Secret : B-Xj3KfvOFuGGJGvO9aeaVkn1RhuMYqT4sQmBbJGHkc
   
